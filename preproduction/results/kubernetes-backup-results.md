@@ -2,11 +2,20 @@ Nombre de la asignación
 
 Participantes
 
-    Nombre: Docker Coins
+    Nombre: KubeCoins
+        Luis Angel Juarez Rodriguez
+        LAlberto Martinez Facundo
+        LZinhue Gonzalez 
+        LJESUS JULIAN RAMIREZ MORENO
+        LAngel Juan Martínez García 
+        LDiego Alejandro Trejo Angelino
+        LVicente Eduardo Escareño Lopez
+        LJOSÉ DOMINGO LÁZARO RAMÍREZ
 
 Actividades
 
     Actividad: Kubernetes Backup
+            
 
 Comandos
 
