@@ -2,7 +2,16 @@ Nombre de la asignación
 
 Participantes
 
-    Nombre: Dockers Coins
+    Nombre: 
+      Luis Angel Juarez Rodriguez
+      Alberto Martinez Facundo
+      Zinhue Gonzalez 
+      JESUS JULIAN RAMIREZ MORENO
+      Angel Juan Martínez García 
+      Diego Alejandro Trejo Angelino
+      Vicente Eduardo Escareño Lopez
+      JOSÉ DOMINGO LÁZARO RAMÍREZ
+
 
 Actividades
 
